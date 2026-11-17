@@ -44,8 +44,7 @@
 
 | Project | Description | Link |
 |---|---|---|
-| **Nothingan Pri** | MVP of an ERP/CRM for a vehicle rental company (Spring Boot, Thymeleaf, MongoDB) | [GitHub](https://github.com/nmampel24/nothingan-pri-erp-crm) |
-
+| **Nothingan Pri – ERP/CRM** | MVP of an ERP/CRM for a vehicle rental company (Spring Boot, Thymeleaf, MongoDB) | [GitHub](https://github.com/nmampel24/nothingan-pri-erp-crm) · [GitLab](https://gitlab.com/dam2/projecte1_equip5) |
 ---
 
 ### 📊 My GitHub stats
