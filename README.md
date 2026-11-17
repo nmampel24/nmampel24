@@ -29,12 +29,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -42,15 +44,15 @@
 
 | Project | Description | Link |
 |---|---|---|
-| **Project 1** | Short description | [GitHub](https://github.com/nmampel24/PROJECT-1) |
+| **Nothingan Pri** | MVP of an ERP/CRM for a vehicle rental company (Spring Boot, Thymeleaf, MongoDB) | [GitHub](https://github.com/nmampel24/nothingan-pri-erp-crm) |
 
 ---
 
 ### 📊 My GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmampel24&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmampel24&layout=compact&theme=visual_studio_code&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmampel24&show_icons=true&theme=visual_studio_code&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmampel24&layout=compact&theme=visual_studio_code&border_radius=10" />
 </p>
 
 ---
