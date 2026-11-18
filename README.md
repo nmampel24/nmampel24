@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nmampel24&label=PROFILE+VIEWS&color=0078d4&style=for-the-badge" alt="nmampel24" />
-  <a href="URL_DEL_TEU_CV">
+  <a href="cv_mampel_miranda_nil.pdf">
     <img src="https://img.shields.io/badge/See%20my%20CV-0078d4?style=for-the-badge&logo=readme&logoColor=white" alt="See my CV" />
   </a>
 </p>
